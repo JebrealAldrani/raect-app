@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-app/static/js/main.e44fb3a7.js",
+    "static/media/back4.jpg": "/react-app/static/media/back4.a3e4c4569786371d89a3.jpg",
+    "static/media/diamond.png": "/react-app/static/media/diamond.7e527ad2c8cd0e5c8e47.png",
+    "index.html": "/react-app/index.html",
+    "main.e44fb3a7.js.map": "/react-app/static/js/main.e44fb3a7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e44fb3a7.js"
+  ]
+}
